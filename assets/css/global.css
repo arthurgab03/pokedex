@@ -1,0 +1,31 @@
+/* O site vai ser mobile-first! */
+
+* {
+    font-family: 'Roboto', sans-serif;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #f6f8fc;
+
+}
+
+.content {
+    padding: 1rem;
+    background-color: #fff;
+    height: 100vh;
+    width: 100vw;
+}
+
+
+.pokeimg {
+    width: 40px;
+    position: absolute;
+}
+
+
+.content h1 {
+    margin: 0;
+    margin-left: 2.8rem;
+}
+

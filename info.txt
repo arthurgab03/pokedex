@@ -1,0 +1,31 @@
+npm install -g http-server --> instalação da biblioteca de servidor HTTP
+
+
+Requisição HTTP 
+- URL: https://pokeapi.co/api/v2/pokemon
+       ------------------ -------------- 
+         Domínio           Path (caminho)
+
+
+- Request Method (tipo de requisição): GET, POST, PUT, DELETE, PATCH e etc...
+
+Cada tipo de requisição significa algo para o servidor, o metódo GET pode ser usado como busca por exemplo.
+
+ 
+
+- Query String --> Filtro que passamos pra busca (muito utilizado para buscas específicas, como nomes que começam com uma letra em específico por exemplo).
+
+sintaxe da Query String --> https://pokeapi.co/api/v2/pokemon?type=grass&name=i
+
+Com esta sintaxe, podemos concluir que estamos buscando pokemons do tipo grama e que possuem a letra i em seu nome.
+
+
+- Body --> Corpo da requisição e da resposta, veja um exemplo da sintaxe do body:
+
+ Body {
+    "name": "Teste"
+} 
+
+- Status Code --> O que aconteceu com a nossa requisição. (200 à 299 = sucesso)
+
+Responde Headers diz como a resposta está configurada e o Response Body mostra a resposta em si.
