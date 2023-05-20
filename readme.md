@@ -11,4 +11,4 @@
 
 - O projeto é Mobile-First e responsivo para vários tipos de tela Mobile e Desktop, a API foi consumida para fornecer dados como nome, tipo e imagem do Pokemon, desenvolvi esta Pokedex com um limite de 151 Pokemon.
 
-- [Clique aqui para visualizar o projeto](https://github.com/arthurgab03/pokedex/index.html)
+- [Clique aqui para visualizar o projeto](https://arthurgab03.github.io/pokedex/index.html)
