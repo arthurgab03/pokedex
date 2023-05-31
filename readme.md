@@ -5,7 +5,7 @@
 </p>
 <br>
 
-- Descrição: Projeto desenvolvido durante o bootcamp Ifood Angular Developer da Digital Innovation One.
+- Descrição: Projeto desenvolvido durante o bootcamp Potência Tech Angular Developer da Digital Innovation One.
 
     Este projeto foi desenvolvido com o intuito de aprender a manipular APIs e desenvolver uma página web interativa, foi utilizada a API: https://pokeapi.co/
 
